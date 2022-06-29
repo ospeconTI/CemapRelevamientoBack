@@ -1,0 +1,54 @@
+{
+    "ES": {
+        "diasCorto": [
+            "Dom",
+            "Lun",
+            "Mar",
+            "Mie",
+            "Jue",
+            "Vie",
+            "Sab"
+        ],
+        "diasLargo": [
+            "Domingo",
+            "Lunes",
+            "Martes",
+            "Miercoles",
+            "Jueves",
+            "Viernes",
+            "Sabado"
+        ],
+        "mesCorto": [
+            "Ene",
+            "Feb",
+            "Mar",
+            "Abr",
+            "May",
+            "Jun",
+            "Jul",
+            "Ago",
+            "Set",
+            "Oct",
+            "Nov",
+            "Dic"
+        ],
+        "mesLargo": [
+            "Enero",
+            "Febrero",
+            "Marzo",
+            "Abril",
+            "Mayo",
+            "Junio",
+            "Julio",
+            "Agosto",
+            "Setiembre",
+            "Octubre",
+            "Noviembre",
+            "Diciembre"
+        ],
+        "si": "Si",
+        "no": "No",
+        "buscar": "Buscar"
+    },
+    "EN": {}
+}

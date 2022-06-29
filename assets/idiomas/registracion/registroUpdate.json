@@ -1,0 +1,15 @@
+{
+	"ES": {
+		"titulo": "MI PERFIL",
+		"nombre": "Nombre",
+		"nombre_ph": "Juan Jose",
+		"apellido": "Apellido",
+		"apellido_ph": "Rodriguez",
+		"tipoDocumento": "Tipo de documento",
+		"documento": "Documento",
+		"telefono": "Telefono",
+		"telefono_ph": "01143233221",
+		"enviar": "GRABAR"
+	},
+	"EN": {}
+}

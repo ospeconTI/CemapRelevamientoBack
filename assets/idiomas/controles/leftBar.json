@@ -1,0 +1,35 @@
+{
+    "ES": {
+        "opciones": [
+            {
+                "opcion": "HOME",
+                "accion": "inicial",
+                "rol": [
+                    "TODOS"
+                ]
+            },
+            {
+                "opcion": "VER RELEVAMIENTOS",
+                "accion": "estadoCemap",
+                "rol": [
+                    "TODOS"
+                ]
+            },
+            {
+                "opcion": "GALERIA DE FOTOS",
+                "accion": "galeriaPorCemap",
+                "rol": [
+                    "TODOS"
+                ]
+            },
+            {
+                "opcion": "FIRMA",
+                "accion": "firma",
+                "rol": [
+                    "TODOS"
+                ]
+            }
+        ]
+    },
+    "EN": {}
+}

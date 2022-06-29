@@ -1,0 +1,54 @@
+{
+    "ES": {
+        "opciones": [
+            {
+                "svg": "HOMEOUTLINE",
+                "opcion": "HOME",
+                "accion": "inicial"
+            },
+            {
+                "svg": "LISTADOOUTLINE",
+                "opcion": "REGISTRARME",
+                "accion": "registro"
+            },
+            {
+                "svg": "TICKETOUTLINE",
+                "opcion": "ACTUALIZAR DATOS",
+                "accion": "registroUpdate"
+            },
+            {
+                "svg": "LOGIN",
+                "opcion": "LOGIN",
+                "accion": "login"
+            }
+        ],
+        "mas": [
+            {
+                "svg": "HOMEOUTLINE",
+                "opcion": "HOME",
+                "accion": "inicial"
+            },
+            {
+                "svg": "LISTADOOUTLINE",
+                "opcion": "REGISTRARME",
+                "accion": "registro"
+            },
+            {
+                "svg": "TICKETOUTLINE",
+                "opcion": "ACTUALIZAR DATOS",
+                "accion": "registroUpdate"
+            },
+            {
+                "svg": "LOGIN",
+                "opcion": "LOGIN",
+                "accion": "login"
+            },
+            {
+                "svg": "CAJAOUTLINE",
+                "opcion": "CURSOS",
+                "accion": "grid"
+            }
+        ]
+    },
+    "EN": {}
+}

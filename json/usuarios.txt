@@ -1,0 +1,23 @@
+[
+	{
+		"id": 0,
+		"usuario": "gerardo",
+		"nombre": "Gerardo",
+		"apellido": "Martinez",
+		"mail": "gmartinez@uocra.org",
+		"clave": "gerardo",
+		"idCemap" 1: 
+		"activo": true,
+	},
+	{
+		"id": 1,
+		"usuario": "d",
+		"nombre": "Daniel",
+		"apellido": "Di Lorenzo",
+		"mail": "gmartinez@uocra.org",
+		"clave": "d",
+		"idCemap" 1: 
+		"activo": true,
+	},
+
+]

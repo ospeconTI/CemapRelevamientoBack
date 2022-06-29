@@ -1,0 +1,19 @@
+{
+    "ES": {
+        "usuario": "Correo Electronico",
+        "usuarioPlaceHolder": "guillermo@gmail.com",
+        "usuarioHelp": "",
+        "usuarioError": "Debe cargar su correo",
+        "password": "Nueva password",
+        "passwordPlaceHolder": "",
+        "passwordHelp": "Ingrese su password",
+        "passwordError": "Debe ingresar su password",
+        "repitePassword": "Ingrese la password nuevamente",
+        "repitePasswordPlaceHolder": "",
+        "repitePasswordHelp": "Ingrese nuevamente su password",
+        "repitePasswordError": "Debe ingresar nuevamente su password",
+        "enviar": "ENVIAR",
+        "volver": "VOLVER"
+    },
+    "EN": {}
+}

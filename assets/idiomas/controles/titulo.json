@@ -1,0 +1,29 @@
+{
+    "ES": {
+        "titulo": "RELEVAMIENTOS",
+        "opciones": [
+            {
+                "opcion": "HOME",
+                "accion": "inicial",
+                "rol": [
+                    "TODOS"
+                ]
+            },
+            {
+                "opcion": "VER RELEVAMIENTOS",
+                "accion": "estadoCemap",
+                "rol": [
+                    "TODOS"
+                ]
+            },
+            {
+                "opcion": "GALERIA DE FOTOS",
+                "accion": "galeriaPorCemap",
+                "rol": [
+                    "TODOS"
+                ]
+            }
+        ]
+    },
+    "EN": {}
+}

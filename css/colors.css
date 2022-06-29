@@ -1,0 +1,70 @@
+/** @format */
+
+html {
+	--fondo-claro1: 0;
+	--fondo-claro2: 0%;
+	--fondo-claro3: 100%;
+	--fondo1: 0;
+	--fondo2: 0%;
+	--fondo3: 94%;
+	--fondo-oscuro1: 0;
+	--fondo-oscuro2: 0%;
+	--fondo-oscuro3: 49%;
+
+	--primario-claro1: 221;
+	--primario-claro2: 29%;
+	--primario-claro3: 74%;
+	--primario1: 219;
+	--primario2: 21%;
+	--primario3: 47%;
+	--primario-oscuro1: 218;
+	--primario-oscuro2: 25%;
+	--primario-oscuro3: 33%;
+
+	--destacado-claro1: 43;
+	--destacado-claro2: 100%;
+	--destacado-claro3: 92%;
+	--destacado1: 37;
+	--destacado2: 35%;
+	--destacado3: 74%;
+	--destacado-oscuro1: 38;
+	--destacado-oscuro2: 17%;
+	--destacado-oscuro3: 46%;
+
+	--color-blanco: #ffffff;
+	--color-negro: #000000;
+
+	/*Fondo pantallas*/
+	--color-fondo-claro: hsl(var(--fondo-claro1), var(--fondo-claro2), var(--fondo-claro3));
+	--color-fondo: hsl(var(--fondo1), var(--fondo2), var(--fondo3));
+	--color-fondo-oscuro: hsl(var(--fondo-oscuro1), var(--fondo-oscuro2), var(--fondo-oscuro3));
+
+	/*Principales*/
+	--color-primario-claro: hsl(var(--primario-claro1), var(--primario-claro2), var(--primario-claro3));
+	--color-primario: hsl(var(--primario1), var(--primario2), var(--primario3));
+	--color-primario-oscuro: hsl(var(--primario-oscuro1), var(--primario-oscuro2), var(--primario-oscuro3));
+
+	/*Destacados*/
+	--color-destacado-claro: hsl(var(--destacado-claro1), var(--destacado-claro2), var(--destacado-claro3));
+	--color-destacado: hsl(var(--destacado1), var(--destacado2), var(--destacado3));
+	--color-destacado-oscuro: hsl(var(--destacado-oscuro1), var(--destacado-oscuro2), var(--destacado-oscuro3));
+
+	/*Controles*/
+	--color-control-fondo: #ececec;
+	--color-control-texto: rgb(90, 88, 88);
+	--color-watermarck: rgb(148, 148, 150);
+
+	/*Mensjes*/
+	--color-error: #c62828;
+	--color-ok: #1de9b6;
+
+	/*Destacados para el texto opuestos*/
+	--color-destacado-texto-claro: #010000;
+	--color-destacado-texto: #010000;
+	--color-destacado-texto-oscuro: #ffffff79;
+
+	--ColorPrimario: #3f51b5;
+	--ColorPrimarioClaro: #99a3db;
+	--ColorPrimarioOscuro: #293475;
+
+}

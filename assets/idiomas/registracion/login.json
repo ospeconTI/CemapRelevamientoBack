@@ -1,0 +1,20 @@
+{
+    "ES": {
+        "usuario": "Usuario",
+        "usuarioPlaceHolder": "guillermo@gmail.com",
+        "usuarioHelp": "",
+        "usuarioError": "Debe cargar su correo",
+        "password": "Contraseña",
+        "passwordHelp": "No menor a cuatro digitos",
+        "passwordError": "Debe cargar su contraseña",
+        "recordar": "Recordar mis datos?",
+        "recordarLabel": "Seleccione para recordar",
+        "recordarHelp": "",
+        "recordarError": "",
+        "inicio": "INICIAR SESION",
+        "crear": "CREAR CUENTA",
+        "recupero": "¿OLVIDASTE TU CONTRASEÑA?",
+        "volver": "VOLVER"
+    },
+    "EN": {}
+}

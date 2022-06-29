@@ -1,0 +1,12 @@
+{
+    "ES": {
+        "mensaje": "PARA ACTIVAR TU CUENTA O ACTUALIZAR TU PASSWORD INGRESA EL CODIGO DE ACTIVACION QUE LLEGO A TU MAIL (VERIFICA SPAM)",
+        "codigo": "Código de activación",
+        "codigoPlaceHolder": "XXXXXXXX",
+        "codigoError": "Debe cargar código de activación",
+        "codigoHelp": "Debe ingresar el código recibido en el Email",
+        "activar": "ACTIVAR",
+        "volver": "VOLVER"
+    },
+    "EN": {}
+}

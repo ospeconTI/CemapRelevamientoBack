@@ -1,0 +1,12 @@
+{
+	"ES": {
+		"usuario": "Correo Electronico",
+		"usuarioPlaceHolder": "guillermo@gmail.com",
+		"usuarioHelp": "",
+		"usuarioError": "Debe cargar su correo",
+		"enviar": "Enviar",
+		"mensaje": "En su casilla de correo recibara un mail para recuperar su contraseña.",
+		"volver": "VOLVER"
+	},
+	"EN": {}
+}

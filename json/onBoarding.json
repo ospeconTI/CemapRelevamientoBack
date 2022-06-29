@@ -1,0 +1,23 @@
+[
+	{
+		"titulo": "HOLA!!",
+		"leyenda": "Te damos la bienvenida al relevamiento de los CEMAPS.",
+		"orden": 1,
+		"activo": true,
+		"id": 0
+	},
+	{
+		"titulo": "CALIFICÁ",
+		"leyenda": "Tenes de 1 a 5 para calificar los puntos presentados",
+		"orden": 2,
+		"activo": false,
+		"id": 1
+	},
+	{
+		"titulo": "FOTOGRAFIÁ",
+		"leyenda": "Tus fotos nos permiten ver el detalle de tu calificación",
+		"orden": 3,
+		"activo": false,
+		"id": 2
+	}
+]

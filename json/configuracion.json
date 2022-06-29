@@ -1,0 +1,46 @@
+[
+    {
+        "Id": 1,
+        "Usuario": "ddilorenzo",
+        "Perfil": "CEMAP",
+        "IdCemap": 1,
+        "Cemap": {
+            "Nombre": "25 de Mayo",
+            "Codigo": "0138"
+        },
+        "Activo": 1
+    },
+    {
+        "Id": 2,
+        "Usuario": "mdominguez",
+        "Perfil": "COORDINACION",
+        "IdCemap": null,
+        "Cemap": {
+            "Nombre": "TODOS",
+            "Codigo": ""
+        },
+        "Activo": 1
+    },
+    {
+        "Id": 3,
+        "Usuario": "lruseff",
+        "Perfil": "CEMAP",
+        "IdCemap": 2,
+        "Cemap": {
+            "Nombre": "ACASSUSO",
+            "Codigo": "0103"
+        },
+        "Activo": 1
+    },
+    {
+        "Id": 4,
+        "Usuario": "oburgos",
+        "Perfil": "FINANZAS",
+        "IdCemap": null,
+        "Cemap": {
+            "Nombre": "TODOS",
+            "Codigo": ""
+        },
+        "Activo": 1
+    }
+]

@@ -1,0 +1,4699 @@
+[
+    {
+        "codigo": "Z653",
+        "nombre": "LAS HERAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Z652",
+        "nombre": "PUERTO DESEADO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Z641",
+        "nombre": "28 DE NOVIEMBRE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "W543",
+        "nombre": "MONTE CASEROS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S478",
+        "nombre": "LAS PAREJAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S477",
+        "nombre": "SAN JORGE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S476",
+        "nombre": "LOS CARDOS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S475",
+        "nombre": "CA�ADA ROSQUIN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S474",
+        "nombre": "EL TREBOL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S404",
+        "nombre": "TOTORAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "R429",
+        "nombre": "LAMARQUE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "R428",
+        "nombre": "CHIMPAY",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "R400",
+        "nombre": "LUIS BELTRAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Q416",
+        "nombre": "PICHI PICUN LEUFU",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "L762",
+        "nombre": "QUEMU-QUEMU",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "L761",
+        "nombre": "EDUARDO CASTEX",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "L361",
+        "nombre": "GRAL. ACHA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "F311",
+        "nombre": "CHILECITO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "C820",
+        "nombre": "FUNDACION",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "C264",
+        "nombre": "I.M.R.",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B032",
+        "nombre": "LAS FLORES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B031",
+        "nombre": "GRAL. ALVEAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X589",
+        "nombre": "V.DOLORES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X586",
+        "nombre": "CABRERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X584",
+        "nombre": "SAMPAYO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X583",
+        "nombre": "ELENA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X582",
+        "nombre": "BERROTARAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X581",
+        "nombre": "G. DEHEZA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X621",
+        "nombre": "DEAN FUNES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X622",
+        "nombre": "JESUS MARIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S405",
+        "nombre": "ALVAREZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B160",
+        "nombre": "PERGAMINO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B740",
+        "nombre": "BOLIVAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "N720",
+        "nombre": "ALTO PARANA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Q790",
+        "nombre": "ZAPALA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "H335",
+        "nombre": "CHARATA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S445",
+        "nombre": "GALVEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S465",
+        "nombre": "ARROYO SECO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "R433",
+        "nombre": "RIO COLORADO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S466",
+        "nombre": "VILLA GOBERNADOR GALVEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X573",
+        "nombre": "CAMILO ALDAO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X574",
+        "nombre": "CAVANAGH",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X575",
+        "nombre": "CORRAL DE BUSTOS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X576",
+        "nombre": "GUTIMOZIN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X577",
+        "nombre": "INRIVILLE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X578",
+        "nombre": "MONTE BUEY",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X579",
+        "nombre": "LOS SURGENTES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S403",
+        "nombre": "RUFINO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S402",
+        "nombre": "ROSARIO SUR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B099",
+        "nombre": "Mutual Mar del Plata",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E671",
+        "nombre": "GUALEGUAY",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X580",
+        "nombre": "RIO CUARTO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Z650",
+        "nombre": "ZONA NORTE (SANTA CRUZ)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B041",
+        "nombre": "CORONEL PRINGLES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B042",
+        "nombre": "CORONEL SUAREZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B043",
+        "nombre": "DARRAGUEIRA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B045",
+        "nombre": "PIGUE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B061",
+        "nombre": "BRAGADO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B062",
+        "nombre": "25 DE MAYO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B072",
+        "nombre": "LINCOLN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B101",
+        "nombre": "BALCARCE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B121",
+        "nombre": "LUJAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B151",
+        "nombre": "COLONAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B164",
+        "nombre": "ROJAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B165",
+        "nombre": "SALTO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E301",
+        "nombre": "CHAJARI",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E302",
+        "nombre": "FEDERAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E303",
+        "nombre": "VILLAGUAY",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "M372",
+        "nombre": "ZNA.ESTE MZA.*SAN MARTIN*",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S462",
+        "nombre": "VILLA CONSTITUCION",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S461",
+        "nombre": "VENADO TUERTO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X601",
+        "nombre": "LAS VARILLAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X602",
+        "nombre": "TRASLASIERRAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X620",
+        "nombre": "UNIDAD TURISTICA 22 ABRIL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S471",
+        "nombre": "CANADA DE GOMEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S472",
+        "nombre": "LAS ROSAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Q411",
+        "nombre": "CUTRAL-CO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Q413",
+        "nombre": "SAN MARTIN DE LOS ANDES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "R432",
+        "nombre": "SIERRA GRANDE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "M382",
+        "nombre": "GENERAL ALVEAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "N391",
+        "nombre": "ELDORADO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "N394",
+        "nombre": "SAN VICENTE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S441",
+        "nombre": "ESPERANZA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S451",
+        "nombre": "SUNCHALES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S452",
+        "nombre": "SAN CRISTOBAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B047",
+        "nombre": "TORNQUIST",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B163",
+        "nombre": "OLAVARRIA [COLON]",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B102",
+        "nombre": "UNID. TUR. MARC. MANSILLA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "C261",
+        "nombre": "C.DE DEP. 17 DE OCTUBRE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Q412",
+        "nombre": "PIEDRA DEL AGUILA (NEUQ.)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Y631",
+        "nombre": "PALPALA (JUJUY)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Y632",
+        "nombre": "EL CARMEN (JUJUY)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Y633",
+        "nombre": "GRAL. SAN MARTIN (JUJUY)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Y634",
+        "nombre": "PERICO (JUJUY)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Y635",
+        "nombre": "SAN PEDRO (JUJUY)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "C800",
+        "nombre": "SEDE CENTRAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B210",
+        "nombre": "SAN NICOLAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "7111",
+        "nombre": "CEMAPS CAPITAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B751",
+        "nombre": "MAR DE AJO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "K351",
+        "nombre": "ANDALGALA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "K352",
+        "nombre": "BELEN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X611",
+        "nombre": "BELL VILLE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X612",
+        "nombre": "JAMES CRAIK",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X613",
+        "nombre": "LABORDE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X614",
+        "nombre": "NOETINGER",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X615",
+        "nombre": "MORRISON",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X616",
+        "nombre": "JUSTINIANO POSSE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "A013",
+        "nombre": "GUEMES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "A014",
+        "nombre": "METAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "A015",
+        "nombre": "ORAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X561",
+        "nombre": "VILLA CARLOS PAZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X562",
+        "nombre": "ALTA GRACIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "Q415",
+        "nombre": "CENTENARIO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S442",
+        "nombre": "CALCHAQUI",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S443",
+        "nombre": "VERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S473",
+        "nombre": "CARCARA�A",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B063",
+        "nombre": "9 DE JULIO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X591",
+        "nombre": "EMBALSE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X592",
+        "nombre": "ALMAFUERTE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "R424",
+        "nombre": "CATRIEL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X571",
+        "nombre": "ARIAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E282",
+        "nombre": "LA PAZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E283",
+        "nombre": "SANTA ELENA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "G324",
+        "nombre": "QUIMILI",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B048",
+        "nombre": "PUNTA ALTA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B224",
+        "nombre": "AYACUCHO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B223",
+        "nombre": "BARKER",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B222",
+        "nombre": "JUARES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B221",
+        "nombre": "RAUCH",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "H331",
+        "nombre": "PTE. ROQUE SAENZ PE�A",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "H332",
+        "nombre": "VILLA ANGELA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "M383",
+        "nombre": "MALARGUE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E291",
+        "nombre": "VILLA ELISA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "D272",
+        "nombre": "QUINES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B103",
+        "nombre": "PINAMAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B104",
+        "nombre": "GENERAL MADARIAGA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "C270",
+        "nombre": "PRESTACIONES ESPECIALES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "P401",
+        "nombre": "CLORINDA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E281",
+        "nombre": "VICTORIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "P402",
+        "nombre": "EL COLORADO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "P403",
+        "nombre": "PIRANE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "G321",
+        "nombre": "LORETO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "G322",
+        "nombre": "ANATUYA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "G323",
+        "nombre": "FRIAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "G325",
+        "nombre": "OJO DE AGUA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "H333",
+        "nombre": "GRAL. PINEDO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "N392",
+        "nombre": "OBERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "N393",
+        "nombre": "APOSTOLES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "N395",
+        "nombre": "PUERTO RICO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X593",
+        "nombre": "LOS CONDORES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B065",
+        "nombre": "PELLEGRINI",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B687",
+        "nombre": "SALLI QUELO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B685",
+        "nombre": "GUAMINI",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B688",
+        "nombre": "RIVADAVIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B689",
+        "nombre": "GENERAL VILLEGAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B683",
+        "nombre": "HENDERSON",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B681",
+        "nombre": "DAIREAUX",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B682",
+        "nombre": "CARLOS CASARES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B064",
+        "nombre": "CARLOS TEGEDOR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "C001",
+        "nombre": "CEMAP MOVIL 1",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "C002",
+        "nombre": "CEMAP MOVIL 2",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X594",
+        "nombre": "VILLA GENERAL BELGRANO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X595",
+        "nombre": "SANTA ROSA DE CALAMUCHITA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B684",
+        "nombre": "TRES LOMAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B686",
+        "nombre": "PEHUAJO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X469",
+        "nombre": "GRAL. BALDISERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S468",
+        "nombre": "NOETINGER",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X400",
+        "nombre": "CRUZ ALTA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S401",
+        "nombre": "ZABALLA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "W531",
+        "nombre": "SALADAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "R426",
+        "nombre": "ALLEN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E304",
+        "nombre": "SAN SALVADOR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E292",
+        "nombre": "COLON",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "E293",
+        "nombre": "SAN JOSE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X617",
+        "nombre": "CANALS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B752",
+        "nombre": "SANTA TERESITA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B152",
+        "nombre": "GENERAL LAMADRID",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X572",
+        "nombre": "LEONES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "H334",
+        "nombre": "PRESIDENCIA DE LA PLAZA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S453",
+        "nombre": "SASTRE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S463",
+        "nombre": "CASILDA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S464",
+        "nombre": "FIRMAT",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "X603",
+        "nombre": "LAGUNA LARGA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S450",
+        "nombre": "GOBERNADOR CRESPO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0602",
+        "nombre": "SAN PEDRO (JUJUY)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1302",
+        "nombre": "FRIAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2303",
+        "nombre": "ZONA NORTE SANTA CRUZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "M780",
+        "nombre": "SAN MARTIN (MENDOZA)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "R421",
+        "nombre": "SAN CARLOS DE BARILOCHE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "9999",
+        "nombre": "SIN IDENTIFICACION",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S469",
+        "nombre": "GRAL.BALDISERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S400",
+        "nombre": "CRUZ ALTA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "H336",
+        "nombre": "JUAN JOSE CASTELLINI",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "H337",
+        "nombre": "CHARATA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "H338",
+        "nombre": "GRAL. PINEDO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S467",
+        "nombre": "ARIAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B244",
+        "nombre": "SAN ANTONIO DE ARECO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0138",
+        "nombre": "COLONIA 25 DE MAYO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0163",
+        "nombre": "CHACABUCO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0165",
+        "nombre": "CHASCOMUS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0168",
+        "nombre": "LUJAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0173",
+        "nombre": "ALEJANDRO KORN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0174",
+        "nombre": "LOBOS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0175",
+        "nombre": "GUERNICA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0176",
+        "nombre": "CA�UELAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0177",
+        "nombre": "BRANDSEN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0178",
+        "nombre": "EZEIZA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0179",
+        "nombre": "LA REJA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0180",
+        "nombre": "GRAL. RODRIGUEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0182",
+        "nombre": "PTE. PERON   LOMAS DE ZAMORA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0183",
+        "nombre": "EL JAG�EL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0184",
+        "nombre": "NAVARRO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0185",
+        "nombre": "MONTE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0320",
+        "nombre": "RIO SEGUNDO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0408",
+        "nombre": "MERCEDES (CORRIENTES)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0410",
+        "nombre": "SANTO TOME",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0903",
+        "nombre": "METAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0905",
+        "nombre": "GUEMES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1205",
+        "nombre": "CA�ADA DE GOMEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1705",
+        "nombre": "RAWSON",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2103",
+        "nombre": "GENERAL ACHA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2215",
+        "nombre": "VALLE MEDIO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2307",
+        "nombre": "CALAFATE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2308",
+        "nombre": "LAS HERAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2309",
+        "nombre": "PUERTO SAN JULIAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2310",
+        "nombre": "RIO TURBIO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0132",
+        "nombre": "PUNTA ALTA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0134",
+        "nombre": "CORONEL SUAREZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0135",
+        "nombre": "PIGUE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0137",
+        "nombre": "BRAGADO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0142",
+        "nombre": "PINAMAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0143",
+        "nombre": "GENERAL MADARIAGA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0148",
+        "nombre": "AMERICA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0154",
+        "nombre": "DAIREAUX",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0155",
+        "nombre": "CARLOS CASARES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0156",
+        "nombre": "HENDERSON",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0158",
+        "nombre": "GUAMINI",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0161",
+        "nombre": "GENERAL VILLEGAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0171",
+        "nombre": "SALDUNGARAY",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0186",
+        "nombre": "RIVADAVIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0193",
+        "nombre": "BENITO JUAREZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0199",
+        "nombre": "AMEGHINO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0202",
+        "nombre": "ANDALGALA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0203",
+        "nombre": "BELEN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0204",
+        "nombre": "RECREO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0307",
+        "nombre": "VILLA CARLOS PAZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0308",
+        "nombre": "ALTA GRACIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0309",
+        "nombre": "EMBALSE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0310",
+        "nombre": "ALMAFUERTE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0311",
+        "nombre": "LAS VARILLAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0312",
+        "nombre": "VILLA DOLORES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0313",
+        "nombre": "BELL VILLE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0319",
+        "nombre": "OLIVA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0321",
+        "nombre": "MONTE BUEY",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0322",
+        "nombre": "ARROYITO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0331",
+        "nombre": "GENERAL DEHEZA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0334",
+        "nombre": "LABOULAYE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0336",
+        "nombre": "HERNANDO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0337",
+        "nombre": "BERROTARAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0344",
+        "nombre": "VILLA DEL ROSARIO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0405",
+        "nombre": "GENERAL VIRASORO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0507",
+        "nombre": "FEDERACION",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0509",
+        "nombre": "COLON",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0510",
+        "nombre": "RIO CEBALLOS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0511",
+        "nombre": "VILLAGUAY",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0512",
+        "nombre": "FEDERAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0515",
+        "nombre": "GENERAL RAMIREZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0517",
+        "nombre": "NOGOYA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0518",
+        "nombre": "ROSARIO DEL TALA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0166",
+        "nombre": "CARMEN DE PATAGONES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0172",
+        "nombre": "FERRE (GRAL PINTO)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0187",
+        "nombre": "ROBERTS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0188",
+        "nombre": "VEDIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0205",
+        "nombre": "TINOGASTA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0318",
+        "nombre": "LAGUNA LARGA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0347",
+        "nombre": "MORTEROS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0348",
+        "nombre": "MALAGUE�O",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0349",
+        "nombre": "TANCACHA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0409",
+        "nombre": "MONTE CASEROS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0411",
+        "nombre": "ESQUINA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0412",
+        "nombre": "SALADAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0413",
+        "nombre": "VIRASORO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0513",
+        "nombre": "FELICIANO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0521",
+        "nombre": "HERRERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0909",
+        "nombre": "CAMPO QUIJANO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0910",
+        "nombre": "CERRILLOS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0911",
+        "nombre": "COBOS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0912",
+        "nombre": "EMBARCACION",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0913",
+        "nombre": "LA CALDERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0914",
+        "nombre": "LA MERCED",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0915",
+        "nombre": "LA SILLETA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1605",
+        "nombre": "BARRANQUERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1606",
+        "nombre": "FONTANA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1607",
+        "nombre": "PUERTO VILELAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1608",
+        "nombre": "PUERTO TIROL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1611",
+        "nombre": "HERMOSO CAMPO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1612",
+        "nombre": "LAS BRE�AS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1908",
+        "nombre": "SAN JAVIER",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2007",
+        "nombre": "PLAZA HUINCUL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2010",
+        "nombre": "JUNIN DE LOS ANDES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2011",
+        "nombre": "VILLA LA ANGOSTURA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2221",
+        "nombre": "CERVANTES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2222",
+        "nombre": "ESTEFANELLI",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2223",
+        "nombre": "GOMEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2224",
+        "nombre": "MAINQUE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2225",
+        "nombre": "RIO NEGRO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5101",
+        "nombre": "ARRECIFES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5102",
+        "nombre": "CORONEL ROSALES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5103",
+        "nombre": "PUAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5104",
+        "nombre": "SAN BERNARDO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5106",
+        "nombre": "SAN CAYETANO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5113",
+        "nombre": "SALTO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B272",
+        "nombre": "VILLA MERCEDES - SAN LUIS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0007",
+        "nombre": "MESA DE CONTROL DE AFILIACIONE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0136",
+        "nombre": "TORNQUIST",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0141",
+        "nombre": "ENSENADA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0144",
+        "nombre": "MERCEDES (BS AS)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0145",
+        "nombre": "ROJAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0146",
+        "nombre": "GONZALEZ CATAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0147",
+        "nombre": "RAUCH",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0149",
+        "nombre": "TAPALQUE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0153",
+        "nombre": "MAQUINISTA SAVIO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0157",
+        "nombre": "TRES LOMAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0160",
+        "nombre": "CARMEN DE ARECO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0162",
+        "nombre": "BOLIVAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0164",
+        "nombre": "VILLA GESELL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0190",
+        "nombre": "MAIPU",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0191",
+        "nombre": "BALCARCE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0194",
+        "nombre": "LOBERIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0195",
+        "nombre": "JOSE C. PAZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0196",
+        "nombre": "AYACUCHO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0197",
+        "nombre": "QUEQUEN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0314",
+        "nombre": "LABORDE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0315",
+        "nombre": "NOETINGER",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0316",
+        "nombre": "JUSTINIANO POSSE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0325",
+        "nombre": "ALTO ALEGRE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0326",
+        "nombre": "MONTE DE LOS GAUCHOS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0327",
+        "nombre": "VICU�A MACKENNA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0328",
+        "nombre": "LA CAUTIVA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0332",
+        "nombre": "ELENA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0335",
+        "nombre": "LOS CONDORES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0338",
+        "nombre": "JAMES CRAIK",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0339",
+        "nombre": "ONCATIVO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0340",
+        "nombre": "UCACHA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0341",
+        "nombre": "HUINCA RENACO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0342",
+        "nombre": "JOVITA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0343",
+        "nombre": "VILLA VALERIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0345",
+        "nombre": "AGUA DE ORO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0516",
+        "nombre": "LUCAS GONZALEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0707",
+        "nombre": "SAN MARTIN (MENDOZA)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2209",
+        "nombre": "ALLEN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "A010",
+        "nombre": "SALTA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "S460",
+        "nombre": "ROSARIO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "S470",
+        "nombre": "SAN LORENZO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "T490",
+        "nombre": "TUCUMAN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "U510",
+        "nombre": "ESQUEL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "W530",
+        "nombre": "CORRIENTES",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "W540",
+        "nombre": "CURUZU CUATIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "W690",
+        "nombre": "ITUZAINGO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "X560",
+        "nombre": "CORDOBA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B750",
+        "nombre": "DOLORES",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "D270",
+        "nombre": "SAN LUIS",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "E280",
+        "nombre": "PARANA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "E290",
+        "nombre": "CONCEPCION DEL URUGUAY",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "E300",
+        "nombre": "CONCORDIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "E670",
+        "nombre": "GUALEGUAYCHU",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "F310",
+        "nombre": "LA RIOJA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "G320",
+        "nombre": "SANTIAGO DEL ESTERO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "H330",
+        "nombre": "RESISTENCIA (CHACO)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "J340",
+        "nombre": "SAN JUAN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "K350",
+        "nombre": "CATAMARCA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "L360",
+        "nombre": "SANTA ROSA (LA PAMPA)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B030",
+        "nombre": "AZUL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B040",
+        "nombre": "BAHIA BLANCA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B060",
+        "nombre": "CHIVILCOY",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B070",
+        "nombre": "JUNIN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B100",
+        "nombre": "MAR DEL PLATA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B140",
+        "nombre": "NECOCHEA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B150",
+        "nombre": "OLAVARRIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B200",
+        "nombre": "SAN NICOLAS (SIDERCA)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B220",
+        "nombre": "TANDIL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B230",
+        "nombre": "TRES ARROYOS",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B680",
+        "nombre": "TRENQUE LAUQUEN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "L760",
+        "nombre": "GENERAL PICO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "M370",
+        "nombre": "MENDOZA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "M380",
+        "nombre": "SAN RAFAEL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "N390",
+        "nombre": "POSADAS",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "Q410",
+        "nombre": "NEUQUEN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "R420",
+        "nombre": "GENERAL ROCA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "R430",
+        "nombre": "VIEDMA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "Z651",
+        "nombre": "CALETA OLIVIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "W532",
+        "nombre": "SANTO TOME",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B243",
+        "nombre": "BARADERO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B123",
+        "nombre": "MERCEDES (BS.AS.)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0301",
+        "nombre": "CORDOBA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0401",
+        "nombre": "CORRIENTES",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2102",
+        "nombre": "GENERAL PICO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2101",
+        "nombre": "SANTA ROSA (LA PAMPA)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0701",
+        "nombre": "MENDOZA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1901",
+        "nombre": "POSADAS",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1102",
+        "nombre": "SAN LUIS",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1101",
+        "nombre": "VILLA MERCEDES (SAN LUIS)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1202",
+        "nombre": "ROSARIO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1201",
+        "nombre": "SANTA FE",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1301",
+        "nombre": "SANTIAGO DEL ESTERO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1401",
+        "nombre": "TUCUMAN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0111",
+        "nombre": "MAR DEL PLATA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0112",
+        "nombre": "TANDIL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1601",
+        "nombre": "RESISTENCIA (CHACO)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0302",
+        "nombre": "RIO TERCERO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0303",
+        "nombre": "RIO CUARTO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0502",
+        "nombre": "CONCEPCION DEL URUGUAY",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0503",
+        "nombre": "CONCORDIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0501",
+        "nombre": "PARANA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1801",
+        "nombre": "FORMOSA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0601",
+        "nombre": "JUJUY",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0801",
+        "nombre": "LA RIOJA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2001",
+        "nombre": "NEUQUEN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0901",
+        "nombre": "SALTA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0902",
+        "nombre": "TARTAGAL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1203",
+        "nombre": "SAN LORENZO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2401",
+        "nombre": "USHUAIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0117",
+        "nombre": "BAHIA BLANCA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0118",
+        "nombre": "SAN NICOLAS",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0119",
+        "nombre": "AZUL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0201",
+        "nombre": "CATAMARCA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0304",
+        "nombre": "SAN FRANCISCO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0305",
+        "nombre": "VILLA MARIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0702",
+        "nombre": "LUJAN DE CUYO (MENDOZA)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "R700",
+        "nombre": "BARILOCHE",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "S440",
+        "nombre": "SANTA FE",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "X570",
+        "nombre": "MARCOS JUAREZ",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "X590",
+        "nombre": "RIO TERCERO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "X600",
+        "nombre": "SAN FRANCISCO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "X610",
+        "nombre": "VILLA MARIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "Y630",
+        "nombre": "JUJUY",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "Z640",
+        "nombre": "RIO GALLEGOS (SANTA CRUZ)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "R422",
+        "nombre": "CIPOLLETTI",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "U500",
+        "nombre": "COMODORO RIVADAVIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "U520",
+        "nombre": "TRELEW",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "R423",
+        "nombre": "VILLA REGINA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "R431",
+        "nombre": "SAN ANTONIO OESTE",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "W541",
+        "nombre": "PASO DE LOS LIBRES",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "P400",
+        "nombre": "FORMOSA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "V660",
+        "nombre": "RIO GRANDE",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "V721",
+        "nombre": "USHUAIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "D271",
+        "nombre": "VILLA MERCEDES (SAN LUIS)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "U521",
+        "nombre": "PUERTO MADRYN (D.TRELEW)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "M371",
+        "nombre": "SAN MARTIN (MENDOZA)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B241",
+        "nombre": "LIMA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "M373",
+        "nombre": "LUJAN DE CUYO (MENDOZA)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "A012",
+        "nombre": "TARTAGAL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B242",
+        "nombre": "SAN PEDRO (ZARATE)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "Q414",
+        "nombre": "RINCON DE LOS SAUCES",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "R425",
+        "nombre": "CINCO SALTOS",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "R427",
+        "nombre": "CHOELE CHOEL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0703",
+        "nombre": "SAN RAFAEL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2201",
+        "nombre": "CIPOLLETTI",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2202",
+        "nombre": "GENERAL ROCA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2203",
+        "nombre": "SAN ANTONIO OESTE",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2204",
+        "nombre": "VIEDMA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2301",
+        "nombre": "RIO GALLEGOS (SANTA CRUZ)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0121",
+        "nombre": "CHIVILCOY",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0122",
+        "nombre": "DOLORES",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0123",
+        "nombre": "JUNIN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0124",
+        "nombre": "NECOCHEA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0125",
+        "nombre": "OLAVARRIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0126",
+        "nombre": "PERGAMINO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0127",
+        "nombre": "TRENQUE LAUQUEN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1701",
+        "nombre": "COMODORO RIVADAVIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1703",
+        "nombre": "PUERTO MADRYN (D.TRELEW)",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0403",
+        "nombre": "CURUZU CUATIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0404",
+        "nombre": "ITUZAINGO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0504",
+        "nombre": "GUALEGUAYCHU",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0505",
+        "nombre": "VICTORIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1902",
+        "nombre": "ELDORADO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2205",
+        "nombre": "BARILOCHE",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2302",
+        "nombre": "CALETA OLIVIA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1204",
+        "nombre": "GRAL. OBLIGADO - RECONQ.",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1702",
+        "nombre": "ESQUEL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0306",
+        "nombre": "MARCOS JUAREZ",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2402",
+        "nombre": "RIO GRANDE",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2002",
+        "nombre": "RINCON DE LOS SAUCES",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0131",
+        "nombre": "MAR DE AJO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0150",
+        "nombre": "TRES ARROYOS",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0181",
+        "nombre": "LAS FLORES",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0407",
+        "nombre": "GOYA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1211",
+        "nombre": "RAFAELA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1704",
+        "nombre": "TRELEW",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2208",
+        "nombre": "CINCO SALTOS",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0140",
+        "nombre": "LINCOLN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0151",
+        "nombre": "LIMA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0152",
+        "nombre": "BARADERO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0406",
+        "nombre": "PASO DE LOS LIBRES",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2107",
+        "nombre": "DELEGACION REALICO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0519",
+        "nombre": "BASAVILBASO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0520",
+        "nombre": "LARROQUE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0604",
+        "nombre": "EL CARMEN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0605",
+        "nombre": "PERICO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0607",
+        "nombre": "PALPALA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0608",
+        "nombre": "SUSQUES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0704",
+        "nombre": "LAS HERAS (MENDOZA)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0705",
+        "nombre": "MALARGUE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0706",
+        "nombre": "GENERAL ALVEAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0708",
+        "nombre": "EL ALGARROBAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0709",
+        "nombre": "SAN JOSE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0710",
+        "nombre": "TUNUYAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0711",
+        "nombre": "TUPUNGATO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0712",
+        "nombre": "EL SAUCE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0713",
+        "nombre": "GODOY CRUZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0802",
+        "nombre": "CHILECITO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0803",
+        "nombre": "CHAMICAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0904",
+        "nombre": "ORAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0906",
+        "nombre": "JOAQUIN V. GONZALEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0907",
+        "nombre": "ROSARIO DE LERMA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0908",
+        "nombre": "EL CARRIL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1002",
+        "nombre": "JACHAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1104",
+        "nombre": "QUINES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1105",
+        "nombre": "LA TOMA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1106",
+        "nombre": "CONCARAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1107",
+        "nombre": "JUSTO DARACT",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1108",
+        "nombre": "SANTA ROSA DEL CONLARA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1109",
+        "nombre": "TILISARAO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1110",
+        "nombre": "NASCHEL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1206",
+        "nombre": "CARCARA�A",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1207",
+        "nombre": "CASILDA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1208",
+        "nombre": "GOBERNADOR GALVEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1209",
+        "nombre": "RUFINO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1210",
+        "nombre": "ESPERANZA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1212",
+        "nombre": "VENADO TUERTO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1213",
+        "nombre": "VILLA CONSTITUCION",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1214",
+        "nombre": "FIRMAT",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1215",
+        "nombre": "LAS ROSAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1216",
+        "nombre": "GRANADERO BAIGORRIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1217",
+        "nombre": "FRAY LUIS BELTRAN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1218",
+        "nombre": "CAPITAN BERMUDEZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1223",
+        "nombre": "CERES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1225",
+        "nombre": "SUNCHALES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1226",
+        "nombre": "MARIA SUSANA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1227",
+        "nombre": "SAN GENARO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1228",
+        "nombre": "CORONDA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1229",
+        "nombre": "CENTENO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1230",
+        "nombre": "ARROYO SECO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1231",
+        "nombre": "BARRANCAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1232",
+        "nombre": "EL TREBOL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1233",
+        "nombre": "LAS PAREJAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1235",
+        "nombre": "SAN JORGE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1236",
+        "nombre": "TOTORAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1237",
+        "nombre": "SAN CRISTOBAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1238",
+        "nombre": "MARGARITA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1239",
+        "nombre": "HUMBOLDT",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1240",
+        "nombre": "TOSTADO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1241",
+        "nombre": "MALABRIGO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1242",
+        "nombre": "VERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1243",
+        "nombre": "VILLA OCAMPO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1304",
+        "nombre": "A�ATUYA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1305",
+        "nombre": "LORETO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1403",
+        "nombre": "LULES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1404",
+        "nombre": "MONTEROS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1602",
+        "nombre": "GENERAL SAN MARTIN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1603",
+        "nombre": "PTE. ROQUE SAENZ PE�A",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1604",
+        "nombre": "VILLA ANGELA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1609",
+        "nombre": "CASTELLI",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1610",
+        "nombre": "CHARATA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1707",
+        "nombre": "EL MAITEN",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1802",
+        "nombre": "CLORINDA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1803",
+        "nombre": "LAS LOMITAS",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1903",
+        "nombre": "OBERA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1904",
+        "nombre": "APOSTOLES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1905",
+        "nombre": "SAN VICENTE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1906",
+        "nombre": "PUERTO RICO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1907",
+        "nombre": "ALTO PARANA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1910",
+        "nombre": "MONTECARLO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1911",
+        "nombre": "PUERTO IGUAZU",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1912",
+        "nombre": "LEANDRO N. ALEM",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1913",
+        "nombre": "WANDA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2003",
+        "nombre": "CUTRAL CO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2004",
+        "nombre": "SAN MARTIN DE LOS ANDES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2005",
+        "nombre": "CENTENARIO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2006",
+        "nombre": "ZAPALA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2008",
+        "nombre": "PIEDRA DEL AGUILA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2104",
+        "nombre": "QUEM�-QUEM�",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2105",
+        "nombre": "COLONIA 25 DE MAYO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2106",
+        "nombre": "EDUARDO CASTEX",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2207",
+        "nombre": "CATRIEL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2211",
+        "nombre": "RIO COLORADO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2212",
+        "nombre": "GENERAL CONESA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2213",
+        "nombre": "SIERRA GRANDE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2214",
+        "nombre": "EL BOLSON",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2216",
+        "nombre": "L. BELTRAN Rio Negro",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2217",
+        "nombre": "INGENIERO HUERGO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2218",
+        "nombre": "LAMARQUE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2219",
+        "nombre": "SIERRA COLORADA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2220",
+        "nombre": "FERNANDEZ ORO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2304",
+        "nombre": "PERITO MORENO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2306",
+        "nombre": "PUERTO DESEADO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2311",
+        "nombre": "LUIS PIEDRA BUENA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2312",
+        "nombre": "GOBERNADOR GREGORES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2313",
+        "nombre": "PUERTO SANTA CRUZ",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2314",
+        "nombre": "28 DE NOVIEMBRE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "2316",
+        "nombre": "RIO TURBIO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0606",
+        "nombre": "GRAL. SAN MARTIN (JUJUY)",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "A011",
+        "nombre": "CABRA CORRAL",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S444",
+        "nombre": "RAFAELA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "S480",
+        "nombre": "GRAL. OBLIGADO - RECONQ.",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "W550",
+        "nombre": "GOYA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5116",
+        "nombre": "ESCOBAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5117",
+        "nombre": "FORTIN OLAVARRIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5118",
+        "nombre": "30 DE AGOSTO",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5119",
+        "nombre": "CORONEL PRINGLES",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "1244",
+        "nombre": "AROCENA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0167",
+        "nombre": "COLON BS. AS.",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0198",
+        "nombre": "MIRAMAR",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0206",
+        "nombre": "SANTA MARIA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0317",
+        "nombre": "CRUZ DEL EJE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0522",
+        "nombre": "SANTA ELENA",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "5105",
+        "nombre": "SAN CLEMENTE",
+        "debita": 0,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0008",
+        "nombre": "A.S.M. URUGUAY",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "1001",
+        "nombre": "SAN JUAN",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0139",
+        "nombre": "9 DE JULIO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2206",
+        "nombre": "VILLA REGINA",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2210",
+        "nombre": "CHOELE CHOEL",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0170",
+        "nombre": "RAMALLO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0506",
+        "nombre": "GUALEGUAY",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0159",
+        "nombre": "PEHUAJO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "2303",
+        "nombre": "PICO TRUNCADO",
+        "debita": 0,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0001",
+        "nombre": "NODO CABALLITO",
+        "debita": 1,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0003",
+        "nombre": "NODO PALERMO",
+        "debita": 1,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "0129",
+        "nombre": "CASEROS",
+        "debita": 1,
+        "informatizado": 0,
+        "activo": 1
+    },
+    {
+        "codigo": "B020",
+        "nombre": "AVELLANEDA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B050",
+        "nombre": "CAMPANA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B080",
+        "nombre": "LA PLATA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B090",
+        "nombre": "LOMAS DE ZAMORA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B110",
+        "nombre": "MONTE GRANDE",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B120",
+        "nombre": "MORENO",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B130",
+        "nombre": "MORON",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B170",
+        "nombre": "QUILMES",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B180",
+        "nombre": "SAN JUSTO",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B190",
+        "nombre": "SAN MARTIN (BS. AS.)",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B240",
+        "nombre": "ZARATE",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B250",
+        "nombre": "ACASSUSO",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B181",
+        "nombre": "GONZALEZ CATAN",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0004",
+        "nombre": "CUAYD",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0104",
+        "nombre": "AVELLANEDA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0108",
+        "nombre": "QUILMES",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0106",
+        "nombre": "MONTE GRANDE",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0103",
+        "nombre": "ACASSUSO",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0107",
+        "nombre": "MORENO",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0113",
+        "nombre": "GENERAL PACHECO",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0105",
+        "nombre": "FLORENCIO VARELA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0116",
+        "nombre": "SAN MIGUEL",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0115",
+        "nombre": "PILAR",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0101",
+        "nombre": "LOMAS DE ZAMORA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0005",
+        "nombre": "SANATORIO FRANCHIN",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0114",
+        "nombre": "LA PLATA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0102",
+        "nombre": "MORON",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0109",
+        "nombre": "SAN JUSTO",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0130",
+        "nombre": "ZARATE",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0110",
+        "nombre": "CAMPANA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0002",
+        "nombre": "CeMAP CAPITAL",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0006",
+        "nombre": "CAPITAL FEDERAL",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0120",
+        "nombre": "SAN PEDRO",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "C260",
+        "nombre": "CAPITAL FEDERAL",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "C262",
+        "nombre": "SANATORIO FRANCHIN",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B998",
+        "nombre": "PILAR",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B251",
+        "nombre": "MAQUINISTA SAVIO (BS.AS.)",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B081",
+        "nombre": "ENSENADA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B780",
+        "nombre": "SAN MIGUEL",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B260",
+        "nombre": "GENERAL PACHECO",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "B175",
+        "nombre": "FLORENCIO VARELA",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    },
+    {
+        "codigo": "0128",
+        "nombre": "SAN MARTIN (BS. AS.)",
+        "debita": 1,
+        "informatizado": 1,
+        "activo": 1
+    }
+]
